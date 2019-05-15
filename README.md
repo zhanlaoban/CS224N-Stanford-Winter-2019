@@ -15,3 +15,6 @@ Or, just click the green button "Clone or download" of this repo, then choose th
   `$git clone https://github.com/zhanlaoban/CS224N-Stanford-Winter-2019`  
 你就会得到这门课程的所有的相关资料。  
 或者，点击该仓库中绿色“Clone or download”按钮，再选择“Download Zip”，也会得到同样效果。
+
+# WeChat Group
+[CS224N NLP](https://i.loli.net/2019/05/15/5cdb75c1d2f5064867.jpg)
